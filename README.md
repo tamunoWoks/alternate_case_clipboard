@@ -19,3 +19,6 @@ Output:  pYtHoN iS aWeSoMe!
 3. Letters alternate between lowercase and uppercase.
 4. Non-letter characters (like punctuation, spaces, or numbers) remain unchanged.
 5. The modified text is printed on screen and copied back to your clipboard for instant pasting.
+
+#### Note:
+For the boolean flag controlling whether the next letter should be uppercase or lowercase, the default value is `False`, meaning the first letter encountered will be lowercased. Change to `True` to start with uppercase.
